@@ -27,7 +27,7 @@ Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/appointment-bot.git
+git clone https://github.com/avinash00134/appointment-bot.git
 cd appointment-bot
 Create a .env file in the root directory of the project and add your OpenAI API key:
 makefile
